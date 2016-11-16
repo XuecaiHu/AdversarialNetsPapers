@@ -51,6 +51,11 @@ The classical Papers about adversarial nets
 :white_check_mark: [Conditional Image Synthesis With Auxiliary Classifier GANs] [[Paper]](https://arxiv.org/abs/1610.09585)[[Code]](https://github.com/buriburisuri/ac-gan)(GoogleBrain ICLR 2017)
 
 
+#ICLR gan
+
+:white_check_mark: [Mode Regularized Generative Adversarial Networks] [[Paper](https://link.zhihu.com/target=http%3A//openreview.net/pdf%3Fid%3DHJKkY35le)
+
+:white_check_mark: [Generative Adversarial Parallelization]
 
 #Adversarial Examples
 
