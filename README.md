@@ -53,9 +53,21 @@ The classical Papers about adversarial nets
 
 #ICLR gan
 
-:white_check_mark: [Mode Regularized Generative Adversarial Networks] [[Paper](https://link.zhihu.com/target=http%3A//openreview.net/pdf%3Fid%3DHJKkY35le)
+:white_check_mark: [Mode Regularized Generative Adversarial Networks] [[Paper]](http://openreview.net/pdf%3Fid%3DHJKkY35le)
 
-:white_check_mark: [Generative Adversarial Parallelization]
+:white_check_mark: [Generative Adversarial Parallelization] [[Paper]](http://openreview.net/pdf?id=Sk8J83oee)
+:white_check_mark: [Unrolled Generative Adversarial Networks] [[Paper]](http://openreview.net/pdf?id=BydrOIcle)
+:white_check_mark: [Improving Generative Adversarial Networks with Denoising Feature Matching] [[Paper]](http://openreview.net/pdf?id=S1X7nhsxl)
+
+:white_check_mark: [Energy-based Generative Adversarial Networks] [[Paper]](http://openreview.net/pdf?id=ryh9pmcee)
+
+:white_check_mark: [Generative Adversarial Networks as Variational Training of Energy Based Models] [[Paper]](http://openreview.net/pdf?id=ry7O1ssex)
+:white_check_mark: [Adversarially Learned INFERENCE] [[Paper]](http://openreview.net/pdf?id=B1ElR4cgg)
+:white_check_mark: [MULTI-VIEW GENERATIVE ADVERSARIAL NETWORKS] [[Paper]](http://openreview.net/pdf?id=SJgWQPcxl)
+:white_check_mark: [SEMI-SUPERVISED LEARNING WITH CONTEXT-CONDITIONAL GENERATIVE ADVERSARIAL NETWORKS] [[Paper]](http://openreview.net/pdf?id=BJ--gPcxl)
+:white_check_mark: [DELVING INTO TRANSFERABLE ADVERSARIAL EXAMPLES AND BLACK-BOX ATTACKS] [[Paper]](http://openreview.net/pdf?id=Sys6GJqxl)
+:white_check_mark: [Delving into Transferable Adversarial Examples and Black-box Attacks] [[Paper]](http://openreview.net/pdf?id=BJtNZAFgg)
+
 
 #Adversarial Examples
 
